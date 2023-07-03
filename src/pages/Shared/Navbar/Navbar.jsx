@@ -1,13 +1,12 @@
 // import { Link } from "react-router-dom";
 import { HashLink as Link } from 'react-router-hash-link';
-
 const Navbar = () => {
 
     const navItems = <>
-        <li><Link smooth to="#">Home</Link></li>
-        <li><Link smooth to="#about-me">About me</Link></li>
-        <li><Link smooth to="#projects">Projects</Link></li>
-        <li><Link smooth to="#contact">Contact</Link></li>
+        <li><Link className='hover:bg-[#30A2FF] hover:text-white' smooth to="#">Home</Link></li>
+        <li><Link className='hover:bg-[#30A2FF] hover:text-white' smooth to="#about-me">About me</Link></li>
+        <li><Link className='hover:bg-[#30A2FF] hover:text-white' smooth to="#projects">Projects</Link></li>
+        <li><Link className='hover:bg-[#30A2FF] hover:text-white' smooth to="#contact">Contact</Link></li>
     </>
 
     return (
@@ -22,7 +21,7 @@ const Navbar = () => {
                             {navItems}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl font-bold">Din Islam.dev</a>
+                    <h2 className="text-xl font-bold">Din.dev</h2>
                 </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu menu-horizontal text-xl font-semibold">

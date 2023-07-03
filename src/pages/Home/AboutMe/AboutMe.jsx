@@ -14,8 +14,14 @@ const AboutMe = () => {
                     </div>
                     <div className="w-full">
                         <h4 className="text-2xl font-bold text-[#30A2FF]">About me</h4>
-                        <h2 className="text-4xl font-bold">A deduction Full-stack Web Developer</h2>
-                        <p>As a junir web developer i propose a imprasive skills HTML, CSS</p>
+                        <h2 className="text-4xl font-bold">A dedicated Full-stack Web Developer</h2>
+                        <p>
+                            As a junior web developer I possess a impressive skills Html, Css, JavaScript, React, Tailwind Css, as well as back-end technologies including Node.js, Express.js, and MongoDB.
+
+                        </p>
+                    </div>
+                    <div>
+                        
                     </div>
                 </div>
             </div>

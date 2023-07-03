@@ -33,7 +33,7 @@ const Header = () => {
 
                     </div>
                 </div>
-                <div className="flex space-x-10 items-center mt-10">
+                <div className="lg:flex sm:flex-none space-x-10 items-center mt-10">
                     <h5 className="text-xl font-medium">Tech Stack <span className="text-[#30A2FF] text-2xl">|</span></h5>
                     <AiFillHtml5 className="text-orange-500" size={28} />
                     <BiLogoCss3 className="text-blue-500" size={28} />
