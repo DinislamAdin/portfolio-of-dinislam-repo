@@ -16,12 +16,11 @@ const AboutMe = () => {
                         <h4 className="text-2xl font-bold text-[#30A2FF]">About me</h4>
                         <h2 className="text-4xl font-bold">A dedicated Full-stack Web Developer</h2>
                         <p>
-                            As a junior web developer I possess a impressive skills Html, Css, JavaScript, React, Tailwind Css, as well as back-end technologies including Node.js, Express.js, and MongoDB.
-
+                            As a junior web developer I possess a impressive skills Html, Css, JavaScript, React, Tailwind Css, as well as back-end technologies including Node.js, Express.js, and MongoDB.As a junior developer, I embrace challenges as opportunities for growth. I actively seek out feedback, engage in peer code reviews, and eagerly learn from experienced mentors in the field. I am adaptable and resourceful, always ready to explore new technologies and industry trends to deliver innovative solutions.
                         </p>
                     </div>
                     <div>
-                        
+
                     </div>
                 </div>
             </div>

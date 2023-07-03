@@ -30,9 +30,9 @@ const Projects = () => {
                                 <SiExpress size={28} />
                             </div>
                             <div className="mt-7 space-x-7">
-                                <a href="https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://summer-camp-school-59e8d.web.app/" target="_blank" className="font-bold">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
+                                <a href="https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://summer-camp-school-59e8d.web.app/" target="_blank" className="font-bold hover:text-[#30A2FF]">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
                             </div>
                         </div>
                     </div>
@@ -52,9 +52,9 @@ const Projects = () => {
                                 <SiExpress size={28} />
                             </div>
                             <div className="mt-7 space-x-7">
-                                <a href="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://serene-moxie-95506a.netlify.app/" target="_blank" className="font-bold">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
+                                <a href="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://serene-moxie-95506a.netlify.app/" target="_blank" className="font-bold hover:text-[#30A2FF]">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
                             </div>
                         </div>
                     </div>
@@ -74,9 +74,9 @@ const Projects = () => {
                                 <SiExpress size={28} />
                             </div>
                             <div className="mt-7 space-x-7">
-                                <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-DinislamAdin" target="_blank" className="font-bold">clint code <AiFillGithub className="inline-block" size={20} /></a>
-                                <a href="https://food-recipes-auth.web.app/" target="_blank" className="font-bold">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
+                                <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-DinislamAdin" target="_blank" className="font-bold hover:text-[#30A2FF]">clint code <AiFillGithub className="inline-block" size={20} /></a>
+                                <a href="https://food-recipes-auth.web.app/" target="_blank" className="font-bold hover:text-[#30A2FF]">Live <BsBoxArrowUpRight className="inline-block" size={16} /></a>
                             </div>
                         </div>
                     </div>
